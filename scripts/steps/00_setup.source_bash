@@ -287,6 +287,7 @@ update_fpga_toolchain_var ()
         ;;
 
         dk_dev_3c120n                        | \
+        marsohod2                            | \
         marsohod_mcy112                      | \
         marsohod_mcy316                      | \
         de0                                  | \
