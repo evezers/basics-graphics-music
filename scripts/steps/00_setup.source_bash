@@ -287,7 +287,6 @@ update_fpga_toolchain_var ()
         ;;
 
         dk_dev_3c120n                        | \
-        zrtech                               | \
         marsohod2                            | \
         marsohod_mcy112                      | \
         marsohod_mcy316                      | \
@@ -301,6 +300,7 @@ update_fpga_toolchain_var ()
         ;;
 
         alinx_ax4010*                    | \
+        zrtech                           | \
         c5gx*                            | \
         de0_cv                           | \
         de0_nano*                        | \
